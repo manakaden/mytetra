@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="первая запись">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1487011309tjmyedymky" name="Linux">
+   <recordtable>
+    <record id="14870113798s4aeee209" name="xfce пропали заголовки окон" author="" url="https://www.mmouse.ru/2014/06/07/propali-zagolovki-okon-xubuntu/" tags="" ctime="20170213214259" dir="1487011379wd0ybec9gc" file="text.html"/>
+    <record id="1487365979nwuq4size6" name="dmesg в реальном времени" author="" url="" tags="" ctime="20170218001259" dir="1487365979f0oxavsphu" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
