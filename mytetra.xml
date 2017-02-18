@@ -14,5 +14,11 @@
     <record id="1487365979nwuq4size6" name="dmesg в реальном времени" author="" url="" tags="" ctime="20170218001259" dir="1487365979f0oxavsphu" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1487440226e10m2htw2v" name="Emasc">
+   <recordtable>
+    <record id="1487440298kzfdawaef3" name="Горячие клавиши org mode" author="" url="snarvaez.com.ar/notes/org-mode-manual.html" tags="" ctime="20170218205138" dir="1487440298lda1fsy94g" file="text.html"/>
+    <record id="1487441909tu583xro9m" name="Настройка Org mode Emacs" author="" url="https://habrahabr.ru/post/105300/" tags="" ctime="20170218211829" dir="1487441909sn7n0xzqbe" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
