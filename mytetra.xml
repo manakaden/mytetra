@@ -12,6 +12,10 @@
    <recordtable>
     <record id="14870113798s4aeee209" name="xfce пропали заголовки окон" author="" url="https://www.mmouse.ru/2014/06/07/propali-zagolovki-okon-xubuntu/" tags="" ctime="20170213214259" dir="1487011379wd0ybec9gc" file="text.html"/>
     <record id="1487365979nwuq4size6" name="dmesg в реальном времени" author="" url="" tags="" ctime="20170218001259" dir="1487365979f0oxavsphu" file="text.html"/>
+    <record id="1487855765ozjjvaintt" name="Узнать путь к программе " author="" url="https://thexnews.com/ubuntu/%D0%A3%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BF%D1%83%D1%82%D1%8C%20%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B5.html" tags="" ctime="20170223161605" dir="14878557655r5kjsx192" file="text.html"/>
+    <record id="1487856145vrz137r4t4" name="разархивировать tar.bz2" author="" url="" tags="" ctime="20170223162225" dir="1487856145ykmx3y72lg" file="text.html"/>
+    <record id="1487856897lb14e0lcxj" name="Как создать новый файл средствами mc? " author="" url="https://midnight-commander.org/wiki/ru/faq" tags="" ctime="20170223163457" dir="1487856897srdr9he0l8" file="text.html"/>
+    <record id="1487874364coxofg9lzd" name="Решение проблемы с версией Python в скриптах сборки" author="" url="https://wiki.archlinux.org/index.php/Python_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)" tags="" ctime="20170223212604" dir="1487874364lxvcouadn0" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1487440226e10m2htw2v" name="Emasc">
@@ -19,6 +23,11 @@
     <record id="1487440298kzfdawaef3" name="Горячие клавиши org mode" author="" url="snarvaez.com.ar/notes/org-mode-manual.html" tags="" ctime="20170218205138" dir="1487440298lda1fsy94g" file="text.html"/>
     <record id="1487441909tu583xro9m" name="Настройка Org mode Emacs" author="" url="https://habrahabr.ru/post/105300/" tags="" ctime="20170218211829" dir="1487441909sn7n0xzqbe" file="text.html"/>
     <record id="1487444197kth3gpfkma" name="Structure editing" author="" url="" tags="" ctime="20170218215637" dir="14874441977kw9pwmr99" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="148786277502weu5bolc" name="Canon 5D">
+   <recordtable>
+    <record id="1487862889nobriy9dqz" name="Еще один пример установки тулчейна для ARM-ов" author="" url="https://zhevak.wordpress.com/2013/10/18/%D0%B5%D1%89%D0%B5-%D0%BE%D0%B4%D0%B8%D0%BD-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8-%D1%82%D1%83%D0%BB%D1%87%D0%B5%D0%B9%D0%BD%D0%B0-%D0%B4%D0%BB/" tags="" ctime="20170223181449" dir="14878628896px2j7nacp" file="text.html"/>
    </recordtable>
   </node>
  </content>
