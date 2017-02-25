@@ -16,6 +16,7 @@
     <record id="1487856145vrz137r4t4" name="разархивировать tar.bz2" author="" url="" tags="" ctime="20170223162225" dir="1487856145ykmx3y72lg" file="text.html"/>
     <record id="1487856897lb14e0lcxj" name="Как создать новый файл средствами mc? " author="" url="https://midnight-commander.org/wiki/ru/faq" tags="" ctime="20170223163457" dir="1487856897srdr9he0l8" file="text.html"/>
     <record id="1487874364coxofg9lzd" name="Решение проблемы с версией Python в скриптах сборки" author="" url="https://wiki.archlinux.org/index.php/Python_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)" tags="" ctime="20170223212604" dir="1487874364lxvcouadn0" file="text.html"/>
+    <record id="148805120948e1s6dlxh" name="Просмотр логов" author="" url="https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs" tags="" ctime="20170225223329" dir="1488051209izsgw6oc8l" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1487440226e10m2htw2v" name="Emasc">
