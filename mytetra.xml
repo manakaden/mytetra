@@ -19,6 +19,7 @@
     <record id="148805120948e1s6dlxh" name="Просмотр логов" author="" url="https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs" tags="" ctime="20170225223329" dir="1488051209izsgw6oc8l" file="text.html"/>
     <record id="1488054185figltpzp1v" name="Bluetooth error" author="" url="http://raspberrypi.stackexchange.com/questions/40839/sap-error-on-bluetooth-service-status" tags="" ctime="20170225232305" dir="1488054185camlrwprtd" file="text.html"/>
     <record id="1488566194r8wtaljpre" name="Ищем активные компьютеры в сети" author="" url="http://linuxway.ru/poleznoe/ishhem-aktivnye-kompyutery-v-seti/" tags="" ctime="20170303213634" dir="1488566194b2nhdfhlgh" file="text.html"/>
+    <record id="1488567743xv2qz6taab" name="узнать список примонтированных устройств" author="" url="" tags="" ctime="20170303220223" dir="14885677436rp6x0wf96" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="1487440226e10m2htw2v" name="Emasc">
@@ -44,6 +45,12 @@
      <record id="1488123372hwnl3rr1bp" name="Открытые приложения " author="" url="https://openrepos.net/last-added-apps" tags="" ctime="20170226183612" dir="14881233729aj9o4jnm2" file="text.html"/>
     </recordtable>
    </node>
+  </node>
+  <node crypt="" id="1488568110ro7ab7ngow" name="Raspberry">
+   <recordtable>
+    <record id="1488568202cpylznzo4b" name="установка Raspbian на pi3" author="" url="http://softhelp.org.ua/?p=6877" tags="" ctime="20170303221002" dir="1488568202f3wmd7ugny" file="text.html"/>
+    <record id="1488572517w7anwar80r" name="установка vnc server" author="" url="http://raspberrypi.stackexchange.com/questions/38/prepare-for-ssh-without-a-screen" tags="" ctime="20170303232157" dir="14885725174ozprxfoyd" file="text.html"/>
+   </recordtable>
   </node>
  </content>
 </root>
