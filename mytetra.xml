@@ -53,5 +53,10 @@
     <record id="1488572517w7anwar80r" name="установка vnc server" author="" url="http://raspberrypi.stackexchange.com/questions/38/prepare-for-ssh-without-a-screen" tags="" ctime="20170303232157" dir="14885725174ozprxfoyd" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1488915973b7wz1k3yfq" name="Nokia N9">
+   <recordtable>
+    <record id="1488916004oxhx2jnxk8" name="Хаос контроль" author="" url="http://chaos-control.mobi/rus/" tags="" ctime="20170307224644" dir="1488916004lfxyeeyxdd" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
